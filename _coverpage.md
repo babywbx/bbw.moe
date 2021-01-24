@@ -1,4 +1,4 @@
-![Logo](https://ae02.alicdn.com/kf/Hf1b33dbfaea94587bf19020b7af836107.jpg)
+![Logo](https://sc01.alicdn.com/kf/H44f786e6b7b642e784c6890742814831S.jpg)
 
 # 帮帮我
 - bbw.moe
