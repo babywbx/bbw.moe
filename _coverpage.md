@@ -12,3 +12,4 @@
 [立刻开始](#bbwmoe-%e5%b8%ae%e5%b8%ae%e6%88%91)
 
 ![](_media/bg.png)
+![color](#fff)
