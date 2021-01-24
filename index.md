@@ -6,6 +6,7 @@
 ## 在这里你可以得到以下帮助
 
 ## 官方合作伙伴
+- [421次元](https://421cy.com)
 
 ## 备注
 - Logo为动漫 [埃罗芒阿老师](https://www.bilibili.com/bangumi/media/md5997) 的女主角 [和泉纱雾](https://baike.baidu.com/item/%E5%92%8C%E6%B3%89%E7%BA%B1%E9%9B%BE)，人物形象由本动漫作者保留所有权利。
