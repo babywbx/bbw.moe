@@ -7,13 +7,6 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WWZ6F64KBV"></script>
-  <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-WWZ6F64KBV');
-  </script>
 </head>
 <body>
   <div id="app"></div>
@@ -23,9 +16,11 @@
       homepage: 'index.md',
       themeColor: '#FF748C',
       loadSidebar: true,
-      coverpage: true
+      coverpage: true,
+      ga: 'G-WWZ6F64KBV'
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
 </body>
 </html>
