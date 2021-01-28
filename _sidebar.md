@@ -1,5 +1,5 @@
 - 开始
-    - [主页](/#/?id=%e5%b8%ae%e5%b8%ae%e6%88%91-bbwmoe)
+    - [主页](/index)
 
 - 教程
     - [如何解压7z文件](/help/how-to-unzip)
