@@ -9,6 +9,6 @@
 - 专业团队维护
 - 永久免费
 
-[立刻开始](#bbwmoe-%e5%b8%ae%e5%b8%ae%e6%88%91)
+[立刻开始](#%e5%b8%ae%e5%b8%ae%e6%88%91-bbwmoe)
 
 ![](https://ae01.alicdn.com/kf/H4dbca32538cf42b78b7bc5ce38738c65D.jpg)
