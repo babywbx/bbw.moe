@@ -7,8 +7,8 @@
     - [如何从百度网盘下载文件](/help/baidupan)
 
 - 下载中心
-    - [工具下载](/download/tools/index)
-    - [演示文件下载](/demo-download)
+    - [工具下载](/download/tools)
+    - [演示文件下载](/download/demo)
 
 - 其他
     - [友情链接](/friendlink)
