@@ -1,4 +1,4 @@
-![Logo](https://ae01.alicdn.com/kf/H5be44f76e777467d90032726ac58a8c8j.jpg)
+![Logo](https://p.pstatp.com/origin/1381c0002c54652775975)
 
 # 帮帮我
 
@@ -11,4 +11,4 @@
 
 [立刻开始](#%e5%b8%ae%e5%b8%ae%e6%88%91-bbwmoe)
 
-![](https://ae01.alicdn.com/kf/H4dbca32538cf42b78b7bc5ce38738c65D.jpg)
+![](https://p.pstatp.com/origin/138b30000a4def046e656)
