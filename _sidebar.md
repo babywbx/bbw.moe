@@ -12,4 +12,5 @@
 
 - 其他
     - [友情链接](/friendlink)
+    - [版权声明](/copyright)
     - [关于](/about)
