@@ -8,10 +8,8 @@ on:
 jobs:
   Deploy-to-server:
     runs-on: ubuntu-20.04
-
     steps:
       - uses: actions/checkout@v2
-
       - name: Deploy with rsync
         uses: AEnterprise/rsync-deploy@v1.0
         env:
@@ -22,3 +20,9 @@ jobs:
           SERVER_IP: ${{ secrets.SSH_HOST }}
           USERNAME: ${{ secrets.SSH_USERNAME }}
           SERVER_DESTINATION: /www/wwwroot/bbw.moe
+          
+      - name: Purge CloudFlare cache
+        uses: jakejarvis/cloudflare-purge-action@master
+        env:
+          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
