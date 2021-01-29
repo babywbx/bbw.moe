@@ -16,7 +16,7 @@ jobs:
         uses: AEnterprise/rsync-deploy@v1.0
         env:
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
-          ARGS: -avz --delete
+          ARGS: -avz --delete --exclude='*.ini'
           SERVER_PORT: "2333"
           FOLDER: ./
           SERVER_IP: ${{ secrets.SSH_HOST }}
