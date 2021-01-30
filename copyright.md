@@ -8,10 +8,11 @@
 
 ## 教程
 - 教程和截屏内容为本网站 (帮帮我) 所有，请勿搬运本站内容，如有需要可直接复制本站链接并署名后使用。
-!> 本站版权许可协议基于 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+> 本站版权许可协议基于 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
 - 本站截屏的外壳样式来源于 [Facebook Design](https://design.facebook.com/toolsandresources/devices/)
-?> Facebook Design 仅提供外壳样式，设备最终版权由设备制造商所有。
+> Facebook Design 仅提供外壳样式，设备最终版权由设备制造商所有。
+
     ```txt
     本站使用过的外壳样式有 (排名不分先后): 
     Apple iPad Pro 13 Space Gray, 
@@ -20,4 +21,5 @@
     Dell XPS 15,
     Samsung Galaxy S20 Utra Cosmic Black
     ```
-    ![DevicesCases](https://p.pstatp.com/origin/1389d00019fc93438251f)
+    
+![DevicesCases](https://p.pstatp.com/origin/1389d00019fc93438251f)
