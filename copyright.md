@@ -13,13 +13,15 @@
 - 本站截屏的外壳样式来源于 [Facebook Design](https://design.facebook.com/toolsandresources/devices/)
 > Facebook Design 仅提供外壳样式，设备最终版权由设备制造商所有。
 
+    ```
     本站使用过的外壳样式有 (排名不分先后): 
     Apple iPad Pro 13 Space Gray, 
     Apple iPhone 12 Pro Max Graphite, 
     Apple Macbook Pro 16 Space Grey,
     Dell XPS 15,
     Samsung Galaxy S20 Utra Cosmic Black
-
+    ```
+    
 - 视频压缩包演示文件来自摄影师 [Taryn Elliott](https://www.pexels.com/zh-cn/@taryn-elliott)，从无版权素材分享网站 [Pexels](https://www.pexels.com/zh-cn) 下载取得，作品原作者保留所有权利。
 
 - 图片压缩包演示文件分别来自摄影师 [Giammarco Boscaro](https://unsplash.com/@giamboscaro)、[Thomas Habr](https://unsplash.com/@thomashabr)、[Louie Martinez](https://unsplash.com/@thetalkinglens) (排序根据图片编号 1-3)，从无版权素材分享网站 [Unsplash](https://unsplash.com) 下载取得，作品原作者保留所有权利。
