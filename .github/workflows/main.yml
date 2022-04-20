@@ -4,12 +4,18 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - '.github/**'
+      - '**/README.md'
 
 jobs:
   Deploy-to-server:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Deploy with rsync
         uses: AEnterprise/rsync-deploy@v1.0
         env:
@@ -21,7 +27,7 @@ jobs:
           USERNAME: ${{ secrets.SSH_USERNAME }}
           SERVER_DESTINATION: ${{ secrets.SERVER_DESTINATION }}
           
-      - name: Purge CloudFlare cache
+      - name: Purge CloudFlare Cache
         uses: jakejarvis/cloudflare-purge-action@master
         env:
           CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
