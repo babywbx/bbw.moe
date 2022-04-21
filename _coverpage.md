@@ -1,4 +1,4 @@
-![Logo](https://p.pstatp.com/origin/1381c0002c54652775975)
+![Logo](https://i.798.moe/pics/2022/04/21/626127058e65f.png)
 
 # 帮帮我
 
@@ -11,4 +11,4 @@
 
 [立刻开始](#%e5%b8%ae%e5%b8%ae%e6%88%91-bbwmoe)
 
-![](https://p.pstatp.com/origin/138b30000a4def046e656)
+![](https://i.798.moe/pics/2022/04/21/6261270747d74.jpg)
