@@ -20,15 +20,15 @@ jobs:
         uses: AEnterprise/rsync-deploy@v1.0
         env:
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
-          ARGS: -avz --delete --exclude='*.ini'
+          ARGS: -avz --delete --exclude={'.nojekyll','.gitignore','.github','README.md','LICENSE'}
           SERVER_PORT: ${{ secrets.SSH_PORT }}
           FOLDER: ./
           SERVER_IP: ${{ secrets.SSH_HOST }}
           USERNAME: ${{ secrets.SSH_USERNAME }}
           SERVER_DESTINATION: ${{ secrets.SERVER_DESTINATION }}
           
-      - name: Purge CloudFlare Cache
-        uses: jakejarvis/cloudflare-purge-action@master
-        env:
-          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
-          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+      # - name: Purge CloudFlare Cache
+      #   uses: jakejarvis/cloudflare-purge-action@master
+      #   env:
+      #     CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+      #     CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
